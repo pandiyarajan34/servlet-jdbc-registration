@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 //utility class - helper class always static
 public class Db {
-	
+	//Deva
 	
 	static {
 		try {
